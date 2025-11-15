@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "7027",
+      "username": "sakal",
+      "password": "rrr123@",
+      "email": "sakalytshit@gmail.com",
+      "gender": ""
+    },
+    {
+      "id": "08f2",
+      "username": "groutineapp1",
+      "password": "Sasalele",
+      "email": "groutineapp@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": "3077",
+      "username": "groutineapp12",
+      "password": "Sasalele234",
+      "email": "groutineapp2@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "6658",
+      "username": "admin_sakal",
+      "password": "Salibill1@",
+      "email": "sakalytshit@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "9cda",
+      "username": "overdose_sakal",
+      "password": "Sakkibul123@@",
+      "email": "sakalytshit2@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "2f77",
+      "username": "iamsrk",
+      "password": "SRKbollywood",
+      "email": "shahrukhkhanpvt@gmail.com",
+      "gender": "others"
+    },
+    {
+      "id": "5389",
+      "username": "roloshot8",
+      "password": "Salibill12",
+      "email": "zxcrubul@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": "d787",
+      "username": "",
+      "password": "",
+      "email": "",
+      "gender": "male"
+    },
+    {
+      "id": "e10a",
+      "username": "haga",
+      "password": "haga",
+      "email": "haga",
+      "gender": "male"
+    }
+  ],
+  "communities": [
+    {
+      "id": 1,
+      "name": "Naruto",
+      "topic": "naruto anime"
+    }
+  ]
+
+}
